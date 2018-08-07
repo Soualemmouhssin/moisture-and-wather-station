@@ -1,0 +1,1 @@
+{ "MQTT_BROKER": "m14.cloudmqtt.com", "SSID" : "wifiSSID", "PASS" : "WIFIPASSWORD", "USER" : "MQTT_USER", "PASSWORD": "MQTT_PASSWORD", "PORT": 10266, "TOPIC": "control", "TOPIC2": "mode", "TOPIC3": "threshold", "threshold" : 278 ,  "CLIENT_ID": "esp8266_", "mode" : 1}
